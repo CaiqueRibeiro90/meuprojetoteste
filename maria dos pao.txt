@@ -1,0 +1,2 @@
+se 10 + 10 = 20
+por que o céu é azul?
