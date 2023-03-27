@@ -1,1 +1,5 @@
 faz cadastro aí mano
+*email
+*cpf
+*crie uma senha
+*sistema recaptha
